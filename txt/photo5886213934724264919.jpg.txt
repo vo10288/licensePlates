@@ -1,0 +1,11 @@
+plate0: 10 results
+    - F579NW	 confidence: 81.7199
+    - F79NW	 confidence: 81.4196
+    - DF579NW	 confidence: 80.9005
+    - DF79NW	 confidence: 80.6003
+    - FS79NW	 confidence: 79.8522
+    - DFS79NW	 confidence: 79.0329
+    - 0F579NW	 confidence: 75.2898
+    - 0F79NW	 confidence: 74.9895
+    - OF579NW	 confidence: 74.4071
+    - QF579NW	 confidence: 74.2081

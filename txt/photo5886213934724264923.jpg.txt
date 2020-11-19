@@ -1,0 +1,11 @@
+plate0: 10 results
+    - FW086ZF	 confidence: 92.2576
+    - FWO86ZF	 confidence: 89.746
+    - FWQ86ZF	 confidence: 85.9992
+    - FWD86ZF	 confidence: 85.9589
+    - FW08GZF	 confidence: 85.315
+    - FW08BZF	 confidence: 84.4529
+    - FW0B6ZF	 confidence: 84.4222
+    - FW08SZF	 confidence: 84.3129
+    - FWG86ZF	 confidence: 84.049
+    - FH086ZF	 confidence: 83.3039

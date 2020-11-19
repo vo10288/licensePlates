@@ -1,0 +1,11 @@
+plate0: 10 results
+    - EZ841TX	 confidence: 88.4812
+    - EZ81TX	 confidence: 86.1251
+    - EZB41TX	 confidence: 80.1804
+    - EZ84TTX	 confidence: 78.5205
+    - EZB1TX	 confidence: 77.8242
+    - E2841TX	 confidence: 77.5703
+    - EN841TX	 confidence: 77.0965
+    - EZ84TX	 confidence: 76.8185
+    - EZ8TTX	 confidence: 76.1643
+    - E281TX	 confidence: 75.2141

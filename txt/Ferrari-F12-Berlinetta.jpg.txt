@@ -1,0 +1,11 @@
+plate0: 10 results
+    - FEFI2BT	 confidence: 87.3409
+    - FEF12BT	 confidence: 80.8226
+    - FEF2BT	 confidence: 80.6104
+    - FEFI2B	 confidence: 78.4312
+    - FEFIZBT	 confidence: 77.0802
+    - FEFI28T	 confidence: 77.0668
+    - FEFI2T	 confidence: 76.7341
+    - FEFI2ST	 confidence: 75.4168
+    - FEFI25T	 confidence: 74.4875
+    - FEFINBT	 confidence: 74.4666

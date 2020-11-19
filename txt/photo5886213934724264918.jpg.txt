@@ -1,0 +1,11 @@
+plate0: 10 results
+    - FV181EX	 confidence: 92.2553
+    - FV1B1EX	 confidence: 84.8679
+    - FV1S1EX	 confidence: 83.0107
+    - FV18TEX	 confidence: 81.0762
+    - FV18EX	 confidence: 81.0268
+    - FY181EX	 confidence: 81.009
+    - FV1G1EX	 confidence: 81.0025
+    - FV11EX	 confidence: 80.3136
+    - FV1BTEX	 confidence: 73.6888
+    - FV1BEX	 confidence: 73.6393

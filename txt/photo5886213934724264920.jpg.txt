@@ -1,0 +1,11 @@
+plate0: 10 results
+    - ER60GHCI	 confidence: 90.7023
+    - ER605HCI	 confidence: 89.5268
+    - ER60SHCI	 confidence: 88.5725
+    - ER606HCI	 confidence: 88.2056
+    - ER60GHC	 confidence: 88.051
+    - ERG0GHCI	 confidence: 87.86
+    - ER60GHCE	 confidence: 87.7479
+    - ER60BHCI	 confidence: 87.272
+    - ERS0GHCI	 confidence: 86.9106
+    - ER605HC	 confidence: 86.8755

@@ -1,0 +1,11 @@
+plate0: 10 results
+    - FZ055CX	 confidence: 90.133
+    - FZ035CX	 confidence: 87.4108
+    - FZO55CX	 confidence: 87.3735
+    - FZ0S5CX	 confidence: 87.341
+    - FZ05CX	 confidence: 86.5395
+    - FZO35CX	 confidence: 84.6512
+    - FZOS5CX	 confidence: 84.5814
+    - FZD55CX	 confidence: 83.8306
+    - FZO5CX	 confidence: 83.78
+    - FZ05SCX	 confidence: 83.7779

@@ -1,0 +1,11 @@
+plate0: 10 results
+    - ENMX5555	 confidence: 88.7942
+    - ENMX5551	 confidence: 86.4127
+    - ENMX555	 confidence: 85.1636
+    - ENMX555S	 confidence: 85.0655
+    - ENMX55S5	 confidence: 84.7915
+    - ENMK5555	 confidence: 83.9727
+    - ENMX555T	 confidence: 83.3507
+    - ENM5555	 confidence: 82.9563
+    - ENMX55S1	 confidence: 82.41
+    - ENMX5S55	 confidence: 81.9868

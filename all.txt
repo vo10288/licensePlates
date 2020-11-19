@@ -1,0 +1,135 @@
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+plate0: 10 results
+    - FEFI2BT	 confidence: 87.3409
+    - FEF12BT	 confidence: 80.8226
+    - FEF2BT	 confidence: 80.6104
+    - FEFI2B	 confidence: 78.4312
+    - FEFIZBT	 confidence: 77.0802
+    - FEFI28T	 confidence: 77.0668
+    - FEFI2T	 confidence: 76.7341
+    - FEFI2ST	 confidence: 75.4168
+    - FEFI25T	 confidence: 74.4875
+    - FEFINBT	 confidence: 74.4666
+==================================
+==================================
+license_plates/img_1111.jpg
+                                  
+plate0: 10 results
+    - ENMX5555	 confidence: 88.7942
+    - ENMX5551	 confidence: 86.4127
+    - ENMX555	 confidence: 85.1636
+    - ENMX555S	 confidence: 85.0655
+    - ENMX55S5	 confidence: 84.7915
+    - ENMK5555	 confidence: 83.9727
+    - ENMX555T	 confidence: 83.3507
+    - ENM5555	 confidence: 82.9563
+    - ENMX55S1	 confidence: 82.41
+    - ENMX5S55	 confidence: 81.9868
+==================================
+==================================
+license_plates/photo5886213934724264918.jpg
+                                  
+plate0: 10 results
+    - FV181EX	 confidence: 92.2553
+    - FV1B1EX	 confidence: 84.8679
+    - FV1S1EX	 confidence: 83.0107
+    - FV18TEX	 confidence: 81.0762
+    - FV18EX	 confidence: 81.0268
+    - FY181EX	 confidence: 81.009
+    - FV1G1EX	 confidence: 81.0025
+    - FV11EX	 confidence: 80.3136
+    - FV1BTEX	 confidence: 73.6888
+    - FV1BEX	 confidence: 73.6393
+==================================
+==================================
+license_plates/photo5886213934724264919.jpg
+                                  
+plate0: 10 results
+    - F579NW	 confidence: 81.7199
+    - F79NW	 confidence: 81.4196
+    - DF579NW	 confidence: 80.9005
+    - DF79NW	 confidence: 80.6003
+    - FS79NW	 confidence: 79.8522
+    - DFS79NW	 confidence: 79.0329
+    - 0F579NW	 confidence: 75.2898
+    - 0F79NW	 confidence: 74.9895
+    - OF579NW	 confidence: 74.4071
+    - QF579NW	 confidence: 74.2081
+==================================
+==================================
+license_plates/photo5886213934724264920.jpg
+                                  
+plate0: 10 results
+    - ER60GHCI	 confidence: 90.7023
+    - ER605HCI	 confidence: 89.5268
+    - ER60SHCI	 confidence: 88.5725
+    - ER606HCI	 confidence: 88.2056
+    - ER60GHC	 confidence: 88.051
+    - ERG0GHCI	 confidence: 87.86
+    - ER60GHCE	 confidence: 87.7479
+    - ER60BHCI	 confidence: 87.272
+    - ERS0GHCI	 confidence: 86.9106
+    - ER605HC	 confidence: 86.8755
+==================================
+==================================
+license_plates/photo5886213934724264921.jpg
+                                  
+plate0: 10 results
+    - FZ055CX	 confidence: 90.133
+    - FZ035CX	 confidence: 87.4108
+    - FZO55CX	 confidence: 87.3735
+    - FZ0S5CX	 confidence: 87.341
+    - FZ05CX	 confidence: 86.5395
+    - FZO35CX	 confidence: 84.6512
+    - FZOS5CX	 confidence: 84.5814
+    - FZD55CX	 confidence: 83.8306
+    - FZO5CX	 confidence: 83.78
+    - FZ05SCX	 confidence: 83.7779
+==================================
+==================================
+license_plates/photo5886213934724264922.jpg
+                                  
+plate0: 10 results
+    - FZO35CX	 confidence: 92.2124
+    - FZOS5CX	 confidence: 86.996
+    - FZO3SCX	 confidence: 86.1799
+    - FZO5CX	 confidence: 85.5797
+    - FZ035CX	 confidence: 84.2636
+    - FZQ35CX	 confidence: 83.3985
+    - FZD35CX	 confidence: 82.6257
+    - FNO35CX	 confidence: 81.3961
+    - FZG35CX	 confidence: 81.3496
+    - FZOSSCX	 confidence: 80.9636
+==================================
+==================================
+license_plates/photo5886213934724264923.jpg
+                                  
+plate0: 10 results
+    - FW086ZF	 confidence: 92.2576
+    - FWO86ZF	 confidence: 89.746
+    - FWQ86ZF	 confidence: 85.9992
+    - FWD86ZF	 confidence: 85.9589
+    - FW08GZF	 confidence: 85.315
+    - FW08BZF	 confidence: 84.4529
+    - FW0B6ZF	 confidence: 84.4222
+    - FW08SZF	 confidence: 84.3129
+    - FWG86ZF	 confidence: 84.049
+    - FH086ZF	 confidence: 83.3039
+==================================
+==================================
+license_plates/targhe-italiane.jpg
+                                  
+plate0: 10 results
+    - EZ841TX	 confidence: 88.4812
+    - EZ81TX	 confidence: 86.1251
+    - EZB41TX	 confidence: 80.1804
+    - EZ84TTX	 confidence: 78.5205
+    - EZB1TX	 confidence: 77.8242
+    - E2841TX	 confidence: 77.5703
+    - EN841TX	 confidence: 77.0965
+    - EZ84TX	 confidence: 76.8185
+    - EZ8TTX	 confidence: 76.1643
+    - E281TX	 confidence: 75.2141
+==================================
