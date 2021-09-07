@@ -133,3 +133,446 @@ plate0: 10 results
     - EZ8TTX	 confidence: 76.1643
     - E281TX	 confidence: 75.2141
 ==================================
+==================================
+all.txt
+                                  
+==================================
+==================================
+LICENSE
+                                  
+==================================
+==================================
+license_plates
+                                  
+==================================
+==================================
+README.md
+                                  
+==================================
+==================================
+reconPlates.sh
+                                  
+==================================
+==================================
+Screenshot_2020-11-19_23-32-16.png
+                                  
+==================================
+==================================
+txt
+                                  
+==================================
+==================================
+all.txt
+                                  
+==================================
+==================================
+LICENSE
+                                  
+==================================
+==================================
+license_plates
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/img_1111.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264918.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264919.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264920.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264921.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264922.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264923.jpg
+                                  
+==================================
+==================================
+license_plates/targhe-italiane.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/img_1111.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264918.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264919.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264920.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264921.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264922.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264923.jpg
+                                  
+==================================
+==================================
+license_plates/targhe-italiane.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/img_1111.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264918.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264919.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264920.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264921.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264922.jpg
+                                  
+==================================
+==================================
+license_plates/photo5886213934724264923.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+==================================
+==================================
+license_plates/Ferrari-F12-Berlinetta.jpg
+                                  
+plate0: 10 results
+    - FEFI2BT	 confidence: 87.5458
+    - FEF12BT	 confidence: 81.5405
+    - FEF2BT	 confidence: 80.3974
+    - FEFI2B	 confidence: 78.9699
+    - FEFI28T	 confidence: 76.9376
+    - FEFIZBT	 confidence: 76.7706
+    - FEI2BT	 confidence: 76.3814
+    - FEPI2BT	 confidence: 76.1119
+    - F5FI2BT	 confidence: 74.1483
+    - FFI2BT	 confidence: 73.1271
+==================================
+==================================
+license_plates/img_1111.jpg
+                                  
+plate0: 10 results
+    - ENMX5555	 confidence: 90.3999
+    - ENMX55S5	 confidence: 85.8887
+    - ENMX5551	 confidence: 85.3525
+    - ENMX555	 confidence: 85.2567
+    - ENMX555T	 confidence: 83.2159
+    - ENMXS555	 confidence: 83.0594
+    - ENHX5555	 confidence: 82.3681
+    - ENNX5555	 confidence: 82.2437
+    - ENX5555	 confidence: 81.5232
+    - ENMX5S55	 confidence: 81.3599
+==================================
+==================================
+license_plates/photo5886213934724264918.jpg
+                                  
+plate0: 6 results
+    - FV181EX	 confidence: 93.6367
+    - FY181EX	 confidence: 83.6716
+    - FV1B1EX	 confidence: 83.308
+    - FW181EX	 confidence: 82.0666
+    - FY1B1EX	 confidence: 73.3429
+    - FW1B1EX	 confidence: 71.7379
+==================================
+==================================
+license_plates/photo5886213934724264919.jpg
+                                  
+plate0: 10 results
+    - F579N	 confidence: 82.5487
+    - F579NW	 confidence: 79.4478
+    - FS79N	 confidence: 75.4282
+    - F57NW	 confidence: 73.8549
+    - F79NW	 confidence: 72.6348
+    - FS79NW	 confidence: 72.3273
+    - F579M	 confidence: 68.925
+    - FS7NW	 confidence: 66.7345
+    - F579W	 confidence: 66.1364
+    - F579MW	 confidence: 65.8242
+==================================
+==================================
+license_plates/photo5886213934724264920.jpg
+                                  
+plate0: 10 results
+    - ER606HCI	 confidence: 90.7146
+    - ER606HC	 confidence: 86.0703
+    - ERG06HCI	 confidence: 84.8336
+    - ERB06HCI	 confidence: 84.3564
+    - ER60GHCI	 confidence: 83.8532
+    - ER6O6HCI	 confidence: 83.5942
+    - ER60BHCI	 confidence: 83.5103
+    - ER606HGI	 confidence: 83.2754
+    - ERS06HCI	 confidence: 83.0695
+    - ER6D6HCI	 confidence: 82.9714
+==================================
+==================================
+license_plates/photo5886213934724264921.jpg
+                                  
+plate0: 10 results
+    - FZ055CX	 confidence: 91.1324
+    - FZ05CX	 confidence: 85.7521
+    - FZ0S5CX	 confidence: 85.7461
+    - FZO55CX	 confidence: 83.27
+    - FZ05SCX	 confidence: 82.5436
+    - FZQ55CX	 confidence: 82.4558
+    - FZD55CX	 confidence: 81.9841
+    - F2055CX	 confidence: 80.6949
+    - FZG55CX	 confidence: 80.4509
+    - FZO5CX	 confidence: 77.8897
+==================================
+==================================
+license_plates/photo5886213934724264922.jpg
+                                  
+plate0: 10 results
+    - FZ055CX	 confidence: 91.0754
+    - FZ05CX	 confidence: 88.8729
+    - FZ0S5CX	 confidence: 88.5525
+    - FZ035CX	 confidence: 88.3831
+    - FZO55CX	 confidence: 83.2446
+    - FZQ55CX	 confidence: 82.1376
+    - FZD55CX	 confidence: 81.8869
+    - FZO5CX	 confidence: 81.0421
+    - F2055CX	 confidence: 80.9584
+    - FZOS5CX	 confidence: 80.7217
+==================================
+==================================
+license_plates/photo5886213934724264923.jpg
+                                  
+plate0: 10 results
+    - FWO86ZF	 confidence: 92.8982
+    - FW086ZF	 confidence: 90.0681
+    - FWD86ZF	 confidence: 86.8583
+    - FWQ86ZF	 confidence: 86.737
+    - FWO8GZF	 confidence: 85.821
+    - FWO8BZF	 confidence: 85.7155
+    - FWO8SZF	 confidence: 84.6115
+    - FWG86ZF	 confidence: 83.4047
+    - FW08GZF	 confidence: 82.9909
+    - FW08BZF	 confidence: 82.8854
+==================================
+==================================
+license_plates/targhe-italiane.jpg
+                                  
+plate0: 10 results
+    - EZ81TX	 confidence: 86.7809
+    - EZ841TX	 confidence: 85.9041
+    - 0EZ81TX	 confidence: 85.7339
+    - 0EZ841TX	 confidence: 84.8572
+    - EZ81TXF	 confidence: 84.7805
+    - EZ841TXF	 confidence: 83.9037
+    - 0EZ81TXF	 confidence: 83.7336
+    - EZB1TX	 confidence: 77.8607
+    - E281TX	 confidence: 77.0746
+    - EZB41TX	 confidence: 76.9839
+==================================
+==================================
+SantaCaterina/0001.png
+                                  
+No license plates found.
+==================================
+==================================
+SantaCaterina/0002.png
+                                  
+No license plates found.
+==================================
+==================================
+SantaCaterina/0003.png
+                                  
+No license plates found.
+==================================
+==================================
+SantaCaterina/0004.png
+                                  
+No license plates found.
+==================================
+==================================
+SantaCaterina/0005.png
+                                  
+No license plates found.
+==================================
+==================================
+SantaCaterina/0006.png
+                                  
+plate0: 10 results
+    - DV739BN	 confidence: 88.6993
+    - DV79BN	 confidence: 85.1434
+    - DV7S9BN	 confidence: 84.032
+    - DV73IBN	 confidence: 83.5386
+    - DV739BM	 confidence: 80.1793
+    - DV7IBN	 confidence: 79.9827
+    - 0V739BN	 confidence: 79.2579
+    - DY739BN	 confidence: 79.1145
+    - OV739BN	 confidence: 78.9877
+    - DV7398N	 confidence: 78.9519
+==================================
+==================================
+SantaCaterina/0007.png
+                                  
+plate0: 10 results
+    - DV739BN	 confidence: 88.134
+    - D739BN	 confidence: 85.7069
+    - DV759BN	 confidence: 85.0897
+    - DV7S9BN	 confidence: 85.0129
+    - DV79BN	 confidence: 83.5411
+    - D759BN	 confidence: 82.6626
+    - D7S9BN	 confidence: 82.5858
+    - D79BN	 confidence: 81.1141
+    - DY739BN	 confidence: 80.9861
+    - DW739BN	 confidence: 80.9488
+==================================
+==================================
+SantaCaterina/0008.png
+                                  
+plate0: 10 results
+    - DV739BN	 confidence: 89.6251
+    - DV79BN	 confidence: 89.2662
+    - DV7S9BN	 confidence: 87.2248
+    - DV759BN	 confidence: 87.1709
+    - DY739BN	 confidence: 81.3823
+    - DV73SBN	 confidence: 81.1191
+    - DY79BN	 confidence: 81.0233
+    - DV7SBN	 confidence: 80.7602
+    - 0V739BN	 confidence: 80.7572
+    - D739BN	 confidence: 80.6619
+==================================
+==================================
+SantaCaterina/0009.png
+                                  
+plate0: 10 results
+    - DV739BN	 confidence: 87.3639
+    - V739BN	 confidence: 86.0225
+    - 0V739BN	 confidence: 82.4092
+    - OV739BN	 confidence: 81.9208
+    - DV7S9BN	 confidence: 81.8786
+    - DV79BN	 confidence: 81.7656
+    - JV739BN	 confidence: 81.6523
+    - QV739BN	 confidence: 81.3665
+    - BV739BN	 confidence: 81.2438
+    - 3V739BN	 confidence: 80.5984
+==================================
+==================================
+SantaCaterina/0010.png
+                                  
+plate0: 10 results
+    - DV759BN	 confidence: 87.5116
+    - DV79BN	 confidence: 86.1237
+    - DV7S9BN	 confidence: 85.6336
+    - DV739BN	 confidence: 85.3294
+    - D759BN	 confidence: 81.0778
+    - D79BN	 confidence: 79.6899
+    - D7S9BN	 confidence: 79.1998
+    - D739BN	 confidence: 78.8956
+    - DY759BN	 confidence: 78.8039
+    - DW759BN	 confidence: 78.2983
+==================================
+==================================
+SantaCaterina/0011.png
+                                  
+plate0: 10 results
+    - DV79BN	 confidence: 85.4667
+    - DV79B	 confidence: 84.1097
+    - DV759BN	 confidence: 83.7225
+    - DV759B	 confidence: 82.3654
+    - DV79BH	 confidence: 82.1245
+    - DV739BN	 confidence: 81.8573
+    - DV739B	 confidence: 80.5002
+    - DV7S9BN	 confidence: 80.4221
+    - DV759BH	 confidence: 80.3802
+    - DV79BM	 confidence: 79.2366
+==================================
+==================================
+SantaCaterina/0012.png
+                                  
+plate0: 10 results
+    - DV79N	 confidence: 82.6795
+    - DY79N	 confidence: 82.266
+    - DV79BN	 confidence: 81.6613
+    - DV79UN	 confidence: 81.4367
+    - DY79BN	 confidence: 81.2477
+    - DY79UN	 confidence: 81.0232
+    - DV739N	 confidence: 79.8693
+    - DY739N	 confidence: 79.4557
+    - DV759N	 confidence: 79.4459
+    - DY759N	 confidence: 79.0323
+==================================
+==================================
+SantaCaterina/0013.png
+                                  
+No license plates found.
+==================================
+==================================
+SantaCaterina/0014.png
+                                  
+No license plates found.
+==================================
